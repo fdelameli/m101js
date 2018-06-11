@@ -1,3 +1,9 @@
+Your assignment for this part of the homework is to install the mongodb driver for Node.js and run the test application.To do this, first download the hw1-2.zip from Download Handout link, uncompress and change into the **hw1-2** directory:
+
+```
+cd hw1-2
+```
+
 Use mongorestore to restore the dump into your running mongod. Do this by opening a terminal window (mac) or cmd window (windows) and navigating to the directory so that the dump directory is directly beneath you. Now type:
 
 ```

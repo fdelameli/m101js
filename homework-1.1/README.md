@@ -13,4 +13,4 @@ mongorestore dump
 
 Note you will need to have your path setup correctly to find mongorestore.
 
-Now, using the Mongo shell, perform a  find()  on the collection called  hw1_1  in the database  m101. There is one document in this collection. Please provide the value corresponding to the "answer" key (without the surrounding quotes) from the document returned.
+Now, using the Mongo shell, perform a  **find()**  on the collection called  **hw1_1**  in the database  **m101**. There is one document in this collection. Please provide the value corresponding to the "answer" key (without the surrounding quotes) from the document returned.
