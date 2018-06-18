@@ -2,7 +2,7 @@
 **Question**
 
 Download Handouts:
-[buildingQueryDocuments.zip](buildingQueryDocuments.zip)
+[buildingQueryDocuments.zip](https://github.com/fabiodelabruna/m101js/blob/master/homework-3.3/buildingQueryDocuments.zip?raw=true)
 
 This application depends on the companies.json dataset distributed as a handout with the findAndCursorsInNodeJSDriver lesson. You must first import that collection. Please ensure you are working with an unmodified version of the collection before beginning this exercise.
 
