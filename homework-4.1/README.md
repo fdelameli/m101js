@@ -2,7 +2,7 @@
 **Question**
 
 Download Handouts:
-[hw4-1.zip](https://github.com/fabiodelabruna/m101js/blob/master/homework-4.1/hw4-1.zip?raw=true)
+[hw4-1.zip](https://github.com/fabiodelabruna/m101js/raw/master/homework-4.1/hw4-1.zip)
 
 
 Please review the data model for the Crunchbase companies data set. The document from this collection for Facebook is attached in the handout for convenience. Documents in this collection contain several array fields including one for "milestones".
