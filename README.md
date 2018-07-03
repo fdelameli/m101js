@@ -67,3 +67,59 @@ Project with "M101JS: MongoDB for Node.js Developers" course exercises.
  - [Homework 3.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-3.2)
  - [Homework 3.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-3.3)
  - [Homework 3.4](https://github.com/fabiodelabruna/m101js/tree/master/homework-3.4)
+
+**Week 4: Schema Design**
+
+*Patterns, Case Studies & Tradeoffs*
+
+ - [MongoDB Schema Design](https://youtu.be/AABYJM12qF4)
+ - [Relational Normalization](https://youtu.be/GX__f2s4hd8)
+ - [Modeling a Blog in Documents](https://youtu.be/lkucDar6I3E)
+ - [Living Without Constraints](https://youtu.be/YFRMkDPaams)
+ - [Living Without Transactions](https://youtu.be/FfRr3qjRfww)
+ - [One to One Relations](https://youtu.be/cCsfon0vUlQ)
+ - [One to Many Relations](https://youtu.be/EIaP1KbVkUc)
+ - [Many to Many Relations](https://youtu.be/fEYYjZ7zEHc)
+ - [Multikeys](https://youtu.be/KtIY4Q1tUao)
+ - [Benefits of Embedding](https://youtu.be/XIN0Dqht08Q)
+ - [Trees](https://youtu.be/lIjXyQklGWY)
+ - [When to Denormalize](https://youtu.be/jDZ-HFoJ0vg)
+ - [Homework 4.1](https://github.com/fabiodelabruna/m101js/tree/master/homework-4.1)
+ - [Homework 4.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-4.2)
+ - [Homework 4.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-4.3)
+
+**Week 5: Indexes and Performance**
+
+*Using Indexes, Monitoring And Understanding  Performance. Performance In Sharded Environments*
+
+ - [Storage Engines: Introduction](https://youtu.be/YvK7I9fYpK4)
+ - [Storage Engines: MMAPv1](https://youtu.be/os3591KviNM)
+ - [Storage Engines: WiredTiger](https://youtu.be/aNsugW7r3mM)
+ - [Indexes](https://youtu.be/U3iWPF5jP-g)
+ - [Creating Indexes](https://youtu.be/xi2gtzZez6Q)
+ - [Discovering (and Deleting) Indexes](https://youtu.be/dX49IcmTrGA)
+ - [Multikey Indexes](https://youtu.be/_NGwn_X82Dw)
+ - [Dot Notation and Multikey](https://youtu.be/wT0_ktAZbBg)
+ - [Index Creation Option, Unique](https://youtu.be/D-Ra5TEaaL4)
+ - [Index Creation, Sparse](https://youtu.be/ZznHByqtTMA)
+ - [Index Creation, Background](https://youtu.be/AchmKNj2qhw)
+ - [Using Explain](https://youtu.be/liXIn8CnJaI)
+ - [Explain: Verbosity](https://youtu.be/WxXVun6bZ20)
+ - [Covered Queries](https://youtu.be/QyV79jsSJ9Y)
+ - [When is an Index Used?](https://youtu.be/JyQlxDc549c)
+ - [How Large is Your Index?](https://youtu.be/wjA0eo_lihg)
+ - [Number of Index Entries](https://youtu.be/xiujksUfzUA)
+ - [Geospatial Indexes](https://youtu.be/UKUDYqNVL6I)
+ - [Geospatial Spherical](https://youtu.be/pULU4DVsUWQ)
+ - [Text Indexes](https://youtu.be/nLau5Fx9LC8)
+ - [Efficiency of Index Use](https://youtu.be/JJmIf0pn100)
+ - [Efficiency of Index Use Example](https://youtu.be/g032EW67SRA)
+ - [Logging Slow Queries](https://youtu.be/aWuvC-O7Qkk)
+ - [Profiling](https://youtu.be/pN1Yhrup9-I)
+ - [Mongotop](https://youtu.be/D9YLXgy7NYo)
+ - [Mongostat](https://youtu.be/E2aDTSes3Wc)
+ - [Sharding Overview](https://youtu.be/BDxT-VZdYqc)
+ - [Homework 5.1](https://github.com/fabiodelabruna/m101js/tree/master/homework-5.1)
+ - [Homework 5.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-5.2)
+ - [Homework 5.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-5.3)
+
