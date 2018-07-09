@@ -1,0 +1,13 @@
+
+**Question**
+
+For companies in our collection founded in 2004 and having 5 or more rounds of funding, calculate the average amount raised in each round of funding. Which company meeting these criteria raised the smallest average amount of money per funding round? You do not need to distinguish between currencies. Write an aggregation query to answer this question.
+
+As a check on your solution, Facebook had the largest funding round average.
+
+**Answer**
+
+```
+Nimbit
+```
+
