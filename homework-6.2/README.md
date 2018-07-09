@@ -1,7 +1,7 @@
 
 **Question**
 
-Download Handouts: [grades.zip]()
+Download Handouts: [grades.zip](https://github.com/fabiodelabruna/m101js/raw/master/homework-6.2/grades.zip)
 
 Who is the easiest grader on campus?
 

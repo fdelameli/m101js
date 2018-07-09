@@ -1,7 +1,7 @@
 
 **Question**
 
-Download Handouts: [companies_dataset.zip]()
+Download Handouts: [companies_dataset.zip](https://github.com/fabiodelabruna/m101js/raw/master/homework-6.1/companies_dataset.zip)
 
 Starting with the example we looked at for calculating the total number of relationships individuals have participated in (in the CrunchBase data set):
 
