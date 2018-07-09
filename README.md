@@ -123,3 +123,22 @@ Project with "M101JS: MongoDB for Node.js Developers" course exercises.
  - [Homework 5.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-5.2)
  - [Homework 5.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-5.3)
 
+**Week 6: The Aggregation Framework**
+
+*The aggregation pipeline; pipeline stages; expressions; accumulators, and best practices*
+
+ - [Introduction  to the Aggregation Framework](https://youtu.be/p5bFDy94cnA)
+ - [Familiar Aggregation Operations](https://youtu.be/Kxegt-5iT-Q)
+ - [Expressions Overview](https://youtu.be/n1-buqH9sUU)
+ - [Reshaping Documents in $project Stages](https://youtu.be/csy5ERC3ifw)
+ - [$unwind](https://youtu.be/PtuTLCPq3TM)
+ - [Array Expressions](https://youtu.be/L1GMv4Q_jRc)
+ - [Accumulators](https://youtu.be/O35V9ZR7TEs)
+ - [Using Accumulators in $project Stages](https://youtu.be/oKrgjIq7sKs)
+ - [Introduction to $group](https://youtu.be/6W8GF4X_euo)
+ - [_id in $group Stages](https://youtu.be/k0Uv7jX--W4)
+ - [$group vs. $project](https://youtu.be/OIIyqxDPEKE)
+ - [Homework 6.1](https://github.com/fabiodelabruna/m101js/tree/master/homework-6.1)
+ - [Homework 6.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-6.2)
+ - [Homework 6.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-6.3)
+
