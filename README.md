@@ -127,7 +127,7 @@ Project with "M101JS: MongoDB for Node.js Developers" course exercises.
 
 *The aggregation pipeline; pipeline stages; expressions; accumulators, and best practices*
 
- - [Introduction  to the Aggregation Framework](https://youtu.be/p5bFDy94cnA)
+ - [Introduction to the Aggregation Framework](https://youtu.be/p5bFDy94cnA)
  - [Familiar Aggregation Operations](https://youtu.be/Kxegt-5iT-Q)
  - [Expressions Overview](https://youtu.be/n1-buqH9sUU)
  - [Reshaping Documents in $project Stages](https://youtu.be/csy5ERC3ifw)
@@ -141,4 +141,37 @@ Project with "M101JS: MongoDB for Node.js Developers" course exercises.
  - [Homework 6.1](https://github.com/fabiodelabruna/m101js/tree/master/homework-6.1)
  - [Homework 6.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-6.2)
  - [Homework 6.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-6.3)
+
+**Week 7: Application Engineering**
+
+*Drivers, Impact Of Replication And Sharding On Design and Development.*
+
+ - [Introduction to Week 7](https://youtu.be/BmQuvmpt_ZQ)
+ - [Write Concern](https://youtu.be/oRDYNWCYnGo)
+ - [Network Errors](https://youtu.be/xWNzCkTCN-M)
+ - [Introduction to Replication](https://youtu.be/f1WTYGORU3w)
+ - [Replica Set Elections](https://youtu.be/WFXSVHO78bQ)
+ - [Write Consistency](https://youtu.be/Oqf_Eza-s1M)
+ - [Creating a Replica Set](https://youtu.be/flCFVFBRsKI)
+ - [Replica Set Internals](https://youtu.be/6GbrJmxCEl0)
+ - [Failover and Rollback](https://youtu.be/IW1oW_Adlt0)
+ - [Connecting to a Replica Set from Node.js Driver](https://youtu.be/H1bzY0ktgEg)
+ - [Failover in the Node.js Driver](https://youtu.be/15jBQRolLV4)
+ - [Write Concern Revisited](https://youtu.be/5VyXyccjS3k)
+ - [Read Preferences](https://youtu.be/mhHaS4ZWzZE)
+ - [Review of Implications of Replication](https://youtu.be/OIIyqxDPEKE))
+ - [Introduction to Sharding](https://youtu.be/_GfDqa1qRl0)
+ - [Building a Sharded Enviroment](https://youtu.be/dn45G2yw20A)
+ - [Implications of Sharding](https://youtu.be/ig278F60gRA)
+ - [Sharding + Replication](https://youtu.be/gkUCUbM0oEg)
+ - [Choosing a Shard Key](https://youtu.be/8q2GB3QSBSI)
+ - [Homework 7.1](https://github.com/fabiodelabruna/m101js/tree/master/homework-7.1)
+ - [Homework 7.2](https://github.com/fabiodelabruna/m101js/tree/master/homework-7.2)
+ - [Homework 7.3](https://github.com/fabiodelabruna/m101js/tree/master/homework-7.3)
+
+**Final Project (Exam)**
+
+*In this project we put together everything we've covered through the course to build a complete application backed by MongoDB.*
+
+
 
